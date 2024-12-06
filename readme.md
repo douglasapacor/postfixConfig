@@ -99,8 +99,8 @@ Pode ser necessário verificação de configuração extra para habilitar conex�
 
 Identifique as seguinte opções:
 
->>  PermitRootLogin yes
->>  UsePAM no
+>  PermitRootLogin yes
+>  UsePAM no
 
 ### 2. INSTALAÇÃO DE LOCALES E TZDATA
 ---
